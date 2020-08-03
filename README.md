@@ -39,7 +39,13 @@
 
 `Monokai`: 字体建议使用`Consolas`,当前行建议使用`R 56`,`G 53,`B 57`.
 
+`Pink` : 无建议.
+
+`Sakura` : 无建议.
+
 `VScode default` : 字体建议使用`Consolas`,当前行建议取消高亮.
+
+
 
 
 ## 使用效果
@@ -51,3 +57,9 @@
 ## 注意事项
 
 1.由于**大部分**IDE的配色方法和Dev C++不同,所以该主题不能保证100%相似.
+
+## 感谢
+
+[_Baoyh_](https://www.luogu.com.cn/user/101855) 提供了`Pink`和`Sakura`主题.
+
+
