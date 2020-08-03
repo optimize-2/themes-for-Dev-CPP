@@ -1,4 +1,4 @@
-# Themes-For-Dev-CPP
+﻿# Themes-For-Dev-CPP
 
 ## 使用方法
 
@@ -35,7 +35,11 @@
 
 `Intellij Dark` : 字体建议使用`Jetbarins Mono`,当前行建议使用`R 50`,`G 50`,`B 50`.
 
-`Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`
+`Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`.
+
+`VScode default` : 字体建议使用`Consolas`,当前行建议取消高亮.
+
+`Monokai`: 字体建议使用`Consolas`,当前行建议使用`R56`,`G 53,`B 57`
 
 
 ## 使用效果
