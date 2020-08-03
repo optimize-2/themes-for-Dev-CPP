@@ -1,25 +1,20 @@
-<<<<<<< HEAD
 # Themes-For-Dev-CPP
 
-## 
-
-ʹ�÷���
-
-- 
+## 使用方法
 
 **Step 1.**
 
   
 
-  -��`.syntax`�ļ�����`C://Users//����û���//Appdata//Roaming//Dev Cpp`��.(Windows)
+  -将`.syntax`文件放入`C://Users//你的用户名//Appdata//Roaming//Dev Cpp`中.(Windows)
   
 
 
-**Step 2.**  (����������Ƽ�����Ļ������Լ�����)
+**Step 2.**  (如果不想用推荐字体的话可以自己搭配)
 
 
 
-  -���������Ӧ������**�ļ�**(**����**�ļ���)����`C://Windows//Fonts`��.(Windows)
+  -将该主题对应的字体**文件**(**不是**文件夹)拖入`C://Windows//Fonts`中.(Windows)
 
 
 
@@ -27,35 +22,28 @@
 
 
 
-  -����Dev C++.
+  -重启Dev C++.
   
 
 **Step 4.**
   
-  -��Dev C++�� ����-�༭��ѡ�� ��,�ҵ�"��ʾ"ѡ�,ѡ����Ҫ������;��"�﷨"ѡ��е�"Ԥ��"�Ҳ��������ҵ����ӵ�����;����"����"ѡ���"������ʾ��ǰ��"��"ɫ��"�޸�Ϊ�����Ӧ��ɫ��.
+  -在Dev C++的 工具-编辑器选项 中,找到"显示"选项卡,选择需要的字体;在"语法"选项卡中的"预设"右侧下拉框找到添加的主题;并在"基本"选项卡中"高亮显示当前行"的"色彩"修改为主题对应的色彩.
 
 
-�����������Ƽ�������͵�ǰ����ɫ:
+以下是主题推荐的字体和当前行颜色:
 
 
-`Intellij Dark` : ���彨��ʹ��`Jetbarins Mono`,��ǰ�н���ʹ��`R 50`,`G 50`,`B 50`.
+`Intellij Dark` : 字体建议使用`Jetbarins Mono`,当前行建议使用`R 50`,`G 50`,`B 50`.
 
-`Intellij Light` : ���彨��ʹ��`Jetbrains Mono`,��ǰ�н���ʹ��`R 252`,`G 250`,`B 237`
-=======
-# themes-for-Dev-CPP
+`Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`
 
-## 使用方法
 
-- **Step 1.**
+## 使用效果
 
-  将`.syntax`文件放入`C://Users//你的用户名//Appdata//Roaming//Dev Cpp`中.(Windows)
-  
-- **Step 2.**
+`Intellij Dark`:
 
-  将该主题对应的字体**文件**(**不是**文件夹)拖入`C://Windows//Fonts`中.(Windows)
-  
-- **Step 3.**
+![](https://cdn.luogu.com.cn/upload/image_hosting/mu5y3gbp.png)
 
-  重启Dev C++.
-  
->>>>>>> 92fe8e54ce72e4640155141dffb9d42c1fba49cc
+## 注意事项
+
+1.由于**大部分**IDE的配色方法和Dev C++不同,所以该主题不能保证100%相似.
