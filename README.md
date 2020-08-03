@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Themes-For-Dev-CPP
 
 ## 
@@ -40,3 +41,21 @@
 `Intellij Dark` : ×ÖÌå½¨ÒéÊ¹ÓÃ`Jetbarins Mono`,µ±Ç°ÐÐ½¨ÒéÊ¹ÓÃ`R 50`,`G 50`,`B 50`.
 
 `Intellij Light` : ×ÖÌå½¨ÒéÊ¹ÓÃ`Jetbrains Mono`,µ±Ç°ÐÐ½¨ÒéÊ¹ÓÃ`R 252`,`G 250`,`B 237`
+=======
+# themes-for-Dev-CPP
+
+## ä½¿ç”¨æ–¹æ³•
+
+- **Step 1.**
+
+  å°†`.syntax`æ–‡ä»¶æ”¾å…¥`C://Users//ä½ çš„ç”¨æˆ·å//Appdata//Roaming//Dev Cpp`ä¸­.(Windows)
+  
+- **Step 2.**
+
+  å°†è¯¥ä¸»é¢˜å¯¹åº”çš„å­—ä½“**æ–‡ä»¶**(**ä¸æ˜¯**æ–‡ä»¶å¤¹)æ‹–å…¥`C://Windows//Fonts`ä¸­.(Windows)
+  
+- **Step 3.**
+
+  é‡å¯Dev C++.
+  
+>>>>>>> 92fe8e54ce72e4640155141dffb9d42c1fba49cc
