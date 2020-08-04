@@ -36,3 +36,10 @@
 `Intellij Dark` : 字体建议使用`Jetbarins Mono`,当前行建议使用`R 50`,`G 50`,`B 50`.
 
 `Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`
+
+
+## 使用效果
+
+`Intellij Dark`:
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/mu5y3gbp.png)
