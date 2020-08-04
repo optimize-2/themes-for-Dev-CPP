@@ -43,3 +43,7 @@
 `Intellij Dark`:
 
 ![](https://cdn.luogu.com.cn/upload/image_hosting/mu5y3gbp.png)
+
+## 注意事项
+
+1.由于**大部分**IDE的配色方法和Dev C++不同,所以该主题不能保证100%相似.
