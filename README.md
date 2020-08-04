@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # Themes-For-Dev-CPP
 
-## 
-
-使用方法
+## 使用方法
 
 **Step 1.**
 
@@ -39,21 +36,3 @@
 `Intellij Dark` : 字体建议使用`Jetbarins Mono`,当前行建议使用`R 50`,`G 50`,`B 50`.
 
 `Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`
-=======
-# themes-for-Dev-CPP
-
-## 浣跨敤鏂规硶
-
-- **Step 1.**
-
-  灏哷.syntax`鏂囦欢鏀惧叆`C://Users//浣犵殑鐢ㄦ埛鍚�//Appdata//Roaming//Dev Cpp`涓�.(Windows)
-  
-- **Step 2.**
-
-  灏嗚涓婚瀵瑰簲鐨勫瓧浣�**鏂囦欢**(**涓嶆槸**鏂囦欢澶�)鎷栧叆`C://Windows//Fonts`涓�.(Windows)
-  
-- **Step 3.**
-
-  閲嶅惎Dev C++.
-  
->>>>>>> 92fe8e54ce72e4640155141dffb9d42c1fba49cc
