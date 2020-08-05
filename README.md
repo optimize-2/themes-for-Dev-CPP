@@ -37,13 +37,15 @@
 
 `Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`.
 
-`Monokai`: 字体建议使用`Consolas`,当前行建议使用`R 56`,`G 53,`B 57`.
+`Monokai`: 字体建议使用`Consolas`,当前行建议使用`R 56`,`G 53`,`B 57`.
 
 `Pink` : 无建议.
 
 `Sakura` : 无建议.
 
 `VScode default` : 字体建议使用`Consolas`,当前行建议取消高亮.
+
+`OneDarkPro` : 字体建议使用`Consolas`,当前行建议`R 44`,`G 49`,`B 60`.
 
 
 
@@ -60,6 +62,6 @@
 
 ## 感谢
 
-[_Baoyh_](https://www.luogu.com.cn/user/101855) 提供了`Pink`和`Sakura`主题.
+@oier_byh 提供了`Pink`和`Sakura`主题.
 
 
