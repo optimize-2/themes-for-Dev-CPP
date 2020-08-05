@@ -62,6 +62,6 @@
 
 ## 感谢
 
-@oier_byh 提供了`Pink`和`Sakura`主题.
+@oier-byh 提供了`Pink`和`Sakura`主题.
 
 
