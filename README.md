@@ -37,7 +37,9 @@
 
 `Intellij Light` : 字体建议使用`Jetbrains Mono`,当前行建议使用`R 252`,`G 250`,`B 237`.
 
-`Monokai`: 字体建议使用`Consolas`,当前行建议使用`R 56`,`G 53`,`B 57`.
+`Monokai1`: 字体建议使用`Consolas`,当前行建议使用`R 56`,`G 53`,`B 57`.
+
+`Monokai2`: 字体建议使用`Consolas`,当前行建议使用`R 62`,`G 61`,`B 50`.
 
 `Pink` : 无建议.
 
