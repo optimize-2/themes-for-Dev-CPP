@@ -64,6 +64,6 @@
 
 ## 感谢
 
-@oier-byh 提供了`Pink`和`Sakura`主题.
+@]oier-byh](https://github.com/oier-byh) 提供了`Pink`和`Sakura`主题.
 
-
+@[Tazuaki](https://www.luogu.com.cn/user/205301) 提供了`Monokai-2`主题.
