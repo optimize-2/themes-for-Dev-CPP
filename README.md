@@ -2,7 +2,7 @@
 
 ## 使用方法
 
-**Step 1.**
+**Step 1.**(或者可以使用`config easily.exe`来完成配置)
 
   
 
