@@ -47,6 +47,8 @@
 
 `OneDarkPro` : 字体建议使用`Consolas`,当前行建议`R 44`,`G 49`,`B 60`.
 
+`Vector` : 无建议.
+
 
 
 
@@ -65,3 +67,5 @@
 @]oier-byh](https://github.com/oier-byh) 提供了`Pink`和`Sakura`主题.
 
 @[Tazuaki](https://www.luogu.com.cn/user/205301) 提供了`Monokai-2`主题.
+
+@[LoveMC](https://www.luogu.com.cn/user/325613) 提供了`Vector`主题.
