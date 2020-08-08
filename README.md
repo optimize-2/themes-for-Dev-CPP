@@ -45,7 +45,9 @@
 
 `VScode default` : 字体建议使用`Consolas`,当前行建议取消高亮.
 
-`OneDarkPro` : 字体建议使用`Consolas`,当前行建议`R 44`,`G 49`,`B 60`.
+`Big Duo` : 字体建议使用`Consolas`,当前行建议取消高亮.
+
+`One Dark Pro` : 字体建议使用`Consolas`,当前行建议`R 44`,`G 49`,`B 60`.
 
 `Vector` : 无建议.
 
